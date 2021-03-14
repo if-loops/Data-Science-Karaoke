@@ -1,6 +1,6 @@
 # Data-Science-Karaoke
 
-Data Science Karaoke is based on the idea of Powerpoint Karaoke where purposfully "awful" presentations are presented withut seeing the slide contents befoerhand. This version is geared towards an audience that is familiar with basic statistics and machine learning methods.
+Data Science Karaoke is based on the idea of Powerpoint Karaoke where purposfully "awful" presentations are presented withut seeing the slide contents beforehand. This version is geared towards an audience that is familiar with basic statistics and machine learning methods.
 
 Expected duration: ca. 15min per presentation (total 1h)
 
