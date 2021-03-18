@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/47212405/111706053-eddf0580-8841-11eb-9b5b-c1b88e91ea29.png)
+
 # Data-Science-Karaoke
 
 Data Science Karaoke is based on the idea of Powerpoint Karaoke where purposfully "awful" presentations are presented withut seeing the slide contents beforehand. This version is geared towards an audience that is familiar with basic statistics and machine learning methods.
